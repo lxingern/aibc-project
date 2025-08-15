@@ -1,0 +1,32 @@
+{
+  "Assurance Package (AP)": [
+    "https://www.govbenefits.gov.sg/about-us/assurance-package/overview/",
+    "https://www.govbenefits.gov.sg/about-us/assurance-package/am-i-eligible/",
+    "https://www.govbenefits.gov.sg/about-us/assurance-package/when-and-how-will-i-be-paid/",
+    "https://www.govbenefits.gov.sg/about-us/assurance-package/more-faqs/"
+  ],
+  "GST Voucher": [
+    "https://www.govbenefits.gov.sg/about-us/gst-voucher/overview/",
+    "https://www.govbenefits.gov.sg/about-us/gst-voucher/am-i-eligible/",
+    "https://www.govbenefits.gov.sg/about-us/gst-voucher/when-and-how-will-i-be-paid/",
+    "https://www.govbenefits.gov.sg/about-us/gst-voucher/more-faqs/"
+  ],
+  "Majulah Package": [
+    "https://www.govbenefits.gov.sg/about-us/majulah-package/overview/",
+    "https://www.govbenefits.gov.sg/about-us/majulah-package/am-i-eligible/",
+    "https://www.govbenefits.gov.sg/about-us/majulah-package/when-and-how-will-i-be-paid/",
+    "https://www.govbenefits.gov.sg/about-us/majulah-package/more-faqs/"
+  ],
+  "Silver Support Scheme (SSS)": [
+    "https://www.cpf.gov.sg/member/retirement-income/government-support/silver-support-scheme"
+  ],
+  "Workfare Income Supplement (WIS)": [
+    "https://www.cpf.gov.sg/member/growing-your-savings/government-support/workfare-income-supplement"
+  ],
+  "MediSave Bonus": [
+    "https://www.govbenefits.gov.sg/about-us/2025-medisave-bonus/overview/",
+    "https://www.govbenefits.gov.sg/about-us/2025-medisave-bonus/am-i-eligible/",
+    "https://www.govbenefits.gov.sg/about-us/2025-medisave-bonus/when-and-how-will-i-be-paid/",
+    "https://www.govbenefits.gov.sg/about-us/2025-medisave-bonus/more-faqs/"
+  ]
+}
