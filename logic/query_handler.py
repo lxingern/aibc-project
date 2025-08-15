@@ -1,3 +1,4 @@
+import sys
 import json
 from utils import llm
 from langchain_chroma import Chroma
@@ -6,6 +7,9 @@ from langchain_openai import ChatOpenAI
 from langchain.chains import RetrievalQA
 from langchain_community.document_loaders import WebBaseLoader
 from langchain_experimental.text_splitter import SemanticChunker
+
+__import__('pysqlite3')
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 def identify_scheme(query):
   prompt = f"""
