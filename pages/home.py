@@ -14,7 +14,7 @@ st.title('Government Disbursement Schemes Assistant')
 form = st.form(key='form')
 form.subheader('Ask me anything about government disbursement schemes!')
 
-query = form.text_area('Enter your query here.', height=100)
+query = form.text_area('E.g. GST Voucher, Assurance Package, Majulah Package, Silver Support Scheme, Workfare Income Supplement, Medisave Bonus', height=100)
 
 if form.form_submit_button('Submit'):
     st.toast('Query submitted!')
